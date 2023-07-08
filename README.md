@@ -1,2 +1,1 @@
-# Green Minds
-A step towards cleanliness
+#Green Minds
